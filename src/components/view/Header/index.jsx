@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './Header.sass'
+import './style.sass'
 
 import { Link } from 'react-router-dom';
 

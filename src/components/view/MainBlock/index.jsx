@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react'
 
-import './MainBlock.sass'
+import './style.sass'
 
 import { SwapiSerwice } from '../../../data/api';
-import { Loader } from '../Loader/Loader';
+import { Loader } from '../Loader';
 
 export const MainBlock = () => {
   const [id, setId] = useState(null);

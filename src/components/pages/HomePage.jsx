@@ -1,7 +1,7 @@
 import React from 'react'
 
-import { MainBlock } from '../view/MainBlock/MainBlock'
-import { UsualCard } from '../view/UsualCard/UsualCard'
+import { MainBlock } from '../view/MainBlock'
+import { UsualCard } from '../view/UsualCard'
 
 export const HomePage = () => {
   return (

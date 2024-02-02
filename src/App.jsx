@@ -12,7 +12,7 @@ import { PeoplePage } from './components/pages/PeoplePage'
 import { PlanetsPage } from './components/pages/PlanetsPage'
 import { ShipsPage } from './components/pages/ShipsPage'
 
-import { Header } from './components/view/Header/Header';
+import { Header } from './components/view/Header';
 
 function App() {
 

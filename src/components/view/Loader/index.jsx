@@ -1,11 +1,11 @@
 import React from 'react'
 
-import './Loader.sass'
+import './style.sass'
 
 export const Loader = () => {
     return (
-        <div className='Loader ComponentWrapper'>
-            <svg version='1.1' id='L4' xmlns='http://www.w3.org/2000/svg' xmlnsXlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='100' height='100' enableBackground='new 0 0 0 0'>
+        <div className='Loader'>
+            <svg version='1.1' id='L4' xmlns='http://www.w3.org/2000/svg' xmlnsXlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='53' height='100' enableBackground='new 0 0 0 0'>
                 <circle fill='#fff' stroke='none' cx='6' cy='50' r='6'>
                     <animate
                         attributeName='opacity'
